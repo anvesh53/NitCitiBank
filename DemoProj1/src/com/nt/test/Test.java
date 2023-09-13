@@ -8,4 +8,8 @@ public class Test {
 	  Utility u=new  Utility();
 	  System.out.println(u.getSysDate());
   }
+  public void m1()
+  {
+	  System.out.println("utility m1() method");
+  }
 }
